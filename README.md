@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hello, World! 👋
+#### My name is Shivam Desai
+I am studying Software Engineering with a minor in Mechatronics
+I enjoy learning embedded software programming and web development!
+Outside of programming I like to be outdoors and participate in activities such as hiking, squash and cricket.
 
-My Name is Shivam Desai. I am studying Software Engineering with a minor in Mechatronics. I enjoy leanrning embedded software programming and web development!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdesai04)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivamdesai04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivamdesai2404@gmail.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shivd.04/)  
 
 
 
