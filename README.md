@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Name is Shivam Desai. I am studying Software Engineering with a minor in Mechatronics. I enjoy leanrning embedded software programming and web development!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdesai04)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **shivamdesai04/shivamdesai04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
