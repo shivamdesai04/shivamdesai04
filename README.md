@@ -1,5 +1,6 @@
-### Hello, World! 👋
-#### My name is Shivam Desai
+## Hello, World! 👋
+### My name is ***Shivam Desai***
+
 I am studying Software Engineering with a minor in Mechatronics
 I enjoy learning embedded software programming and web development!
 Outside of programming I like to be outdoors and participate in activities such as hiking, squash and cricket.
