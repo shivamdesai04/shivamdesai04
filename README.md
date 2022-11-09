@@ -13,7 +13,7 @@ Outside of programming I like to be outdoors and participate in activities such 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ⌨️ Other Technical Tools
+## 🛠️ Other Technical Tools
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 <a href="https://www.st.com/" rel="STMicro">![STMicro](https://user-images.githubusercontent.com/78698227/185344511-0296b5ed-15a3-4013-a98a-6dcd38222382.svg)</a>
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -22,7 +22,7 @@ Outside of programming I like to be outdoors and participate in activities such 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## My teams
+## ⌨️ My teams
 <table style='border:none'>
   <thread align="center">
   <td><b> <a href="https://github.com/StudentOrganisationForAerospaceResearch" tagret="_blank" rel="AvionicsSoftware"><img alt="AvionicsSoftware" src="https://user-images.githubusercontent.com/78698227/194955901-54a12bca-59ed-47cb-b7e6-3c6185ff94d5.png" width="50"/>
