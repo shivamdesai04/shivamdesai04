@@ -22,6 +22,15 @@ Outside of programming I like to be outdoors and participate in activities such 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## My teams
+<table>
+  <thread align="center">
+  <td><b> <a href="https://github.com/StudentOrganisationForAerospaceResearch" tagret="_blank" rel="AvionicsSoftware"><img alt="AvionicsSoftware" src="https://user-images.githubusercontent.com/78698227/194955901-54a12bca-59ed-47cb-b7e6-3c6185ff94d5.png" width="50"/>
+  </b></td>
+    <td><b> <a href="https://github.com/zoouofc" tagret="_blank" rel="Software and Electrical Student Society"><img alt="Software and Electrical Student Society" src="https://avatars.githubusercontent.com/u/26998356?s=64&v=4" width="50"/>
+  </b></td>
+</table>
+
 
 ## 📫 How to reach me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivamdesai04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivam-desai-0458a5231/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shivd.04/)  
