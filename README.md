@@ -23,11 +23,14 @@ Outside of programming I like to be outdoors and participate in activities such 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## My teams
-<table>
+<table style='border:none'>
   <thread align="center">
   <td><b> <a href="https://github.com/StudentOrganisationForAerospaceResearch" tagret="_blank" rel="AvionicsSoftware"><img alt="AvionicsSoftware" src="https://user-images.githubusercontent.com/78698227/194955901-54a12bca-59ed-47cb-b7e6-3c6185ff94d5.png" width="50"/>
   </b></td>
     <td><b> <a href="https://github.com/zoouofc" tagret="_blank" rel="Software and Electrical Student Society"><img alt="Software and Electrical Student Society" src="https://avatars.githubusercontent.com/u/26998356?s=64&v=4" width="50"/>
+  </b></td>
+  </b></td>
+    <td><b> <a href="https://github.com/ucalgary-rover" tagret="_blank" rel="Ucalgary-Rover"><img alt="Ucalgary-Rover" src="https://cdn.discordapp.com/attachments/988631666048266310/1030174531144392785/ssrt_patch_logo_good_copy_1.png" width="50"/>
   </b></td>
 </table>
 
