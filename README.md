@@ -42,11 +42,11 @@ Outside of programming I like to be outdoors and participate in activities such 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdesai04&show_icons=true&theme=dark)
 
-<a href="https://github.com/shivamdesai04" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdesai04&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <!--
 **shivamdesai04/shivamdesai04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://github.com/shivamdesai04" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdesai04&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
