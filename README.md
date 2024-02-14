@@ -9,8 +9,8 @@ Outside of programming I like to be outdoors and participate in activities such 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br />
-<a href="https://www.freertos.org/features.html" rel="FreeRTOS">![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%23green.svg?style=for-the-badge)</a>
 <a href="https://www.st.com/" rel="STMicro">![STMicro](https://user-images.githubusercontent.com/78698227/185344511-0296b5ed-15a3-4013-a98a-6dcd38222382.svg)</a>
+<a href="https://www.freertos.org/features.html" rel="FreeRTOS">![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%23green.svg?style=for-the-badge)</a>
 ![Protobuf](https://img.shields.io/badge/Protobuf-E97627?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
